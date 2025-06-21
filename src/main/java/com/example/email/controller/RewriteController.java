@@ -2,7 +2,7 @@ package com.example.email.controller;
 
 import org.springframework.web.bind.annotation.PostMapping;
 
-@PostMapping("/rewrite")
+//@PostMapping("/rewrite")
 
 public class RewriteController {
 
